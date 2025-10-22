@@ -1,0 +1,70 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+*.manifest
+*.spec
+
+# ---- Virtual environments ----
+.venv/
+env/
+venv/
+.venv*/
+.vas/
+ENV/
+env.bak/
+venv.bak/
+
+# ---- Django / Project files ----
+db.sqlite3
+media/
+staticfiles/
+*.log
+*.pot
+*.pyc
+*.mo
+*.db
+*.sqlite3
+*.sqlite
+
+# ---- IDE / Editor files ----
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# ---- System files ----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- Temporary and generated files ----
+*.tmp
+*.temp
+*.old
+*.orig
+*.pdf
+*.dat
+*.zip
+*.tar
+*.gz
+
+# ---- OS / cache ----
+*.~lock.*
+.cache/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+__pycache__/
+.coverage
+htmlcov/
+
+# ---- Compiled / Build ----
+build/
+dist/
+*.egg-info/

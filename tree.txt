@@ -1,0 +1,56 @@
+.
+├── db.sqlite3
+├── forms.py
+├── manage.py
+├── packapp
+│   ├── admin.py
+│   ├── apps.py
+│   ├── __init__.py
+│   ├── migrations
+│   │   ├── __init__.py
+│   │   └── __pycache__
+│   │       └── __init__.cpython-313.pyc
+│   ├── models.py
+│   ├── __pycache__
+│   │   ├── admin.cpython-313.pyc
+│   │   ├── apps.cpython-313.pyc
+│   │   ├── __init__.cpython-313.pyc
+│   │   ├── models.cpython-313.pyc
+│   │   ├── urls.cpython-313.pyc
+│   │   └── views.cpython-313.pyc
+│   ├── templates
+│   │   └── packapp
+│   ├── tests.py
+│   ├── urls.py
+│   ├── utils
+│   │   ├── dat_parser_simple.py
+│   │   ├── generate_packing_list.py
+│   │   ├── __init__.py
+│   │   ├── packing_list_generator.py
+│   │   ├── pdf_mapper.py
+│   │   └── __pycache__
+│   │       ├── dat_parser_simple.cpython-313.pyc
+│   │       ├── __init__.cpython-313.pyc
+│   │       ├── packing_list_generator.cpython-313.pyc
+│   │       └── pdf_mapper.cpython-313.pyc
+│   └── views.py
+├── packing_system
+│   ├── asgi.py
+│   ├── __init__.py
+│   ├── __pycache__
+│   │   ├── __init__.cpython-313.pyc
+│   │   ├── settings.cpython-313.pyc
+│   │   ├── urls.cpython-313.pyc
+│   │   └── wsgi.cpython-313.pyc
+│   ├── settings.py
+│   ├── urls.py
+│   └── wsgi.py
+├── requirements.txt
+├── services.py
+├── start.sh
+├── templates
+│   ├── base.html
+│   └── home.html
+└── tree.txt
+
+12 directories, 42 files
